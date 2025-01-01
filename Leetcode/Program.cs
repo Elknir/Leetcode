@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// using Leetcode.Exercices;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("I'm Fishmael");
