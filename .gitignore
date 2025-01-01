@@ -3,3 +3,8 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+*.xml
+*.vsidx
+*.v2
+*.bin
+/.vs/Leetcode/v17
